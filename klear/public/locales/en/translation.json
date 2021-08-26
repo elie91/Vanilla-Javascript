@@ -1,0 +1,93 @@
+{
+  "language": {
+    "fr": "French",
+    "en": "English"
+  },
+  "homepage": {
+    "test": "This is a test",
+    "lorem": "this is a lorem ipsum test"
+  },
+  "button": {
+    "submit": "Submit",
+    "delete": "Are you sure to delete this item ?",
+    "validate": "Validate",
+    "cancel": "Cancel",
+    "add": "Add"
+  },
+  "login": "login",
+  "primary": "Primary",
+  "secondary": "Secondary",
+  "right": "Right",
+  "left": "Left",
+  "settings": {
+    "value": "Value",
+    "sidebarFocus": "Sidebar on focus",
+    "sidebarFocusDetail": "Sidebar appear when hovered over the mouse",
+    "itemsFocus": "Multi items on focus",
+    "itemsFocusDetail": "Multi-item menu items appear when hovered over the mouse",
+    "general": "General",
+    "colorManagement": "color management",
+    "policeManagement": "font management",
+    "menuManagementNav": "menu management",
+    "datagridManagement": "Datagrid Management",
+    "datagridManagementNav": "datagrid management",
+    "menuManagementTitle": "Menu Management",
+    "mainColors": "Main Colors",
+    "textIconColors": "Text and icon colors",
+    "fontSize": "Font size",
+    "fontSizeLabel": "Font size in pixels",
+    "iconSize": "Icons size",
+    "iconSizeLabel": "Icon size in pixels",
+    "resetTheme": "Reset Theme"
+  },
+  "datagrid": {
+    "settings": {
+      "pageSize": "Number of lines",
+      "pageSizeDetail": "Number of lines being displayed by default",
+      "selectable": "selection",
+      "seletableDetail": "select multiple lines",
+      "filtering": "Filtering",
+      "filteringDetail": "Filter displayed for each column",
+      "exportable": "Export",
+      "exportableDetail": "Option to export data",
+      "group": "Group",
+      "groupDetail": "Group similar data by columns",
+      "actionsPosition": "Positions of action buttons",
+      "actionsPositionDetail": "Location of the action buttons",
+      "draggable": "Drag and Drop",
+      "draggableDetail": "Change the display order of columns in drag and drop",
+      "columnChooser": "Column chooser",
+      "columnChooserDetail": "Choose the columns to display",
+      "searchable": "Search",
+      "searchableDetail": "display a global search field"
+    },
+    "table": {
+      "noData": "No data"
+    },
+    "paging": {
+      "showAll": "All",
+      "rowsPerPage": "Rows per page:",
+      "info": "{from}-{to} of {count}"
+    },
+    "edit": {
+      "addCommand": "New",
+      "editCommand": "Edit",
+      "deleteCommand": "Delete",
+      "commitCommand": "Save",
+      "cancelCommand": "Cancel"
+    },
+    "filter": {
+      "filterPlaceholder": "Filter...",
+      "contains": "Contains",
+      "notContains": "Does not contain",
+      "startsWith": "Starts with",
+      "endsWith": "Ends with",
+      "equal": "Equals",
+      "notEqual": "Does not equal",
+      "greaterThan": "Greater than",
+      "greaterThanOrEqual": "Greater than or equal to",
+      "lessThan": "Less than",
+      "lessThanOrEqual": "Less than or equal to"
+    }
+  }
+}
